@@ -1,2 +1,2 @@
 # horizion-test
-Testing will a job process by mutiple horizon servers at the same time.
+Testing will a job process by multiple horizon servers at the same time.
